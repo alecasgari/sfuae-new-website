@@ -125,7 +125,7 @@
     <div class="swiper-wrapper">
         <div class="swiper-slide">
             <div class="cs_about cs_style_1">
-                <div class="cs_about_bg cs_bg" data-src="assets/img/about_img.png"></div>
+                <div class="cs_about_bg cs_bg" data-src="assets/img/about_img.webp"></div>
                 <div class="container">
                     <div class="cs_about_text">
                         <div class="cs_section_heading cs_style_1">
@@ -146,7 +146,7 @@
         </div>
         <div class="swiper-slide">
             <div class="cs_about cs_style_1">
-                 <div class="cs_about_bg cs_bg" data-src="assets/img/about_img2.png"></div>
+                 <div class="cs_about_bg cs_bg" data-src="assets/img/about_img2.webp"></div>
                 <div class="container">
                     <div class="cs_about_text">
                         <div class="cs_section_heading cs_style_1">
@@ -332,7 +332,7 @@
                         <div class="cs_horizontal_scroll">
                              <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_1.png" alt="Thumb" />
+                                    <img src="assets/img/portfolio_1.webp" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -348,7 +348,7 @@
                         <div class="cs_horizontal_scroll">
                               <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_2.png" alt="Thumb" />
+                                    <img src="assets/img/portfolio_2.webp" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -364,7 +364,7 @@
                         <div class="cs_horizontal_scroll">
                             <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_3.png" alt="Thumb" />
+                                    <img src="assets/img/portfolio_3.webp" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -410,7 +410,7 @@
                             <h2 class="cs_card_brand">ME Business Awards </h2>
                         </div>
                         <div class="cs_card_hover_img">
-                             <img src="assets/img/award_thumb_1.png" alt="Thumb" />
+                             <img src="assets/img/award_thumb_1.webp" alt="Thumb" />
                         </div>
                     </div>
                     <div class="cs_card cs_style_2 cs_hover_tab anim_div_ShowDowns">
@@ -428,7 +428,7 @@
                             <h2 class="cs_card_brand">Clutch.co </h2>
                         </div>
                         <div class="cs_card_hover_img">
-                             <img src="assets/img/award_thumb_2.png" alt="Thumb" />
+                             <img src="assets/img/award_thumb_2.webp" alt="Thumb" />
                         </div>
                     </div>
                     </div>
@@ -462,7 +462,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div>
-                             <img src="assets/img/testimonial_thumb_1.png" alt="Testimonial" class="w-100" />
+                             <img src="assets/img/testimonial_thumb_1.webp" alt="Testimonial" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-7 offset-lg-1">
@@ -573,7 +573,7 @@
             <div class="cs_parallax">
                  <a href="https://www.youtube.com/watch?v=VcaAVWtP48A"
                     class="cs_video_block cs_style1 cs_video_open cs_bg cs_parallax_bg"
-                    data-src="assets/img/video_block.png">
+                    data-src="assets/img/video_block.webp">
                     <span class="cs_player_btn cs_accent_color">
                         <span></span>
                     </span>

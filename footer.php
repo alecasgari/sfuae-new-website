@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="cs_footer_info">
-                    <img src="assets/img/footer_logo.svg" alt="Spring Future Logo" style="max-height: 50px; margin-bottom: 25px;" />
+                    <img src="assets/img/SF Logo Full White.svg" alt="Spring Future Logo" style="max-height: 100px; margin-bottom: 25px;" />
                     <p>
                         With over 15 years of experience in website designing and Online advertisement, Spring Future is here to help you succeed online.
                     </p>
@@ -21,8 +21,8 @@
                 <div class="cs_footer_social">
                     <a href="#" class="cs_center" target="_blank">Facebook</a>
                     <a href="https://www.linkedin.com/company/spring-future/" class="cs_center" target="_blank">Linkedin</a>
-                    <a href="https://www.instagram.com/springfuture.co/" class="cs_center" target="_blank">Instagram</a>
-                    <a href="#" class="cs_center" target="_blank">Twitter</a> <a href="https://wa.me/971558433000" class="cs_center" target="_blank">WhatsApp</a>
+                    <a href="https://www.instagram.com/sfuae.co/" class="cs_center" target="_blank">Instagram</a>
+                    <a href="#" class="cs_center" target="_blank">Twitter</a> <a href="https://wa.me/971504302948" class="cs_center" target="_blank">WhatsApp</a>
                     </div>
                 <div class="cs_height_60 cs_height_lg_30"></div>
                 <ul class="cs_footer_contact_list cs_mp0">
@@ -52,7 +52,7 @@
                                     fill="currentColor" />
                             </svg>
                         </i>
-                        +971 55 843 3000
+                        +971 50 430 2948
                     </li>
                     <li>
                         <i>
@@ -75,8 +75,6 @@
         <ul class="cs_footer_nav">
             <li><a href="index.php">HOME</a></li>
             <li><a href="about.php">ABOUT</a></li>
-            <li><a href="service.php">SERVICES</a></li>
-            <li><a href="portfolio.php">PORTFOLIO</a></li>
             <li><a href="/blog/">BLOG</a></li> <li><a href="contact.php">CONTACT US</a></li>
         </ul>
     </div>
