@@ -7,7 +7,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="cs_hero cs_style1 cs_center cs_parallax">
-                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_1.webp"></div>
+                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_1.png"></div>
                         <div class="container">
                             <div class="cs_hero_text">
                                 <div class="cs_hero_mini_title">
@@ -42,7 +42,7 @@
                 </div>
                 <div class="swiper-slide">
                      <div class="cs_hero cs_style1 cs_center cs_parallax">
-                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_2.webp"></div>
+                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_1.png"></div>
                         <div class="container">
                             <div class="cs_hero_text">
                                 <div class="cs_hero_mini_title">
@@ -75,7 +75,7 @@
                 </div>
                  <div class="swiper-slide">
                      <div class="cs_hero cs_style1 cs_center cs_parallax">
-                         <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_3.webp  "></div>
+                         <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_1.png"></div>
                         <div class="container">
                             <div class="cs_hero_text">
                                 <div class="cs_hero_mini_title">
@@ -122,70 +122,49 @@
         </div>
         <div class="cs_height_130 cs_height_lg_60"></div>
         <section class="cs_slider cs_slider_2">
-    <div class="swiper-wrapper">
-        <div class="swiper-slide">
-            <div class="cs_about cs_style_1">
-                <div class="cs_about_bg cs_bg" data-src="assets/img/about_img.png"></div>
-                <div class="container">
-                    <div class="cs_about_text">
-                        <div class="cs_section_heading cs_style_1">
-                            <div class="cs_section_heading_text">
-                                <div class="cs_section_subtitle">About Spring Future</div>
-                                <h2 class="cs_section_title">
-                                    Certified, Trusted, Award Winning (2025)
-                                </h2>
+            <div class="swiper-wrapper">
+                <div class="swiper-slide">
+                    <div class="cs_about cs_style_1">
+                        <div class="cs_about_bg cs_bg" data-src="assets/img/about_img.png"></div>
+                        <div class="container">
+                            <div class="cs_about_text">
+                                <div class="cs_section_heading cs_style_1">
+                                    <div class="cs_section_heading_text">
+                                        <div class="cs_section_subtitle">About Spring Future</div>
+                                        <h2 class="cs_section_title">
+                                            Certified, Trusted, Award Winning (2023)
+                                        </h2>
+                                    </div>
+                                </div>
+                                <div class="cs_height_40 cs_height_lg_30"></div>
+                                <p class="cs_m0">
+                                    We are dedicated to transforming businesses in Dubai through innovative digital strategies and expert execution. We specialize in helping businesses like yours succeed online, offering everything from web design to AI solutions and comprehensive marketing campaigns.
+                                </p>
                             </div>
                         </div>
-                        <div class="cs_height_40 cs_height_lg_30"></div>
-                        <p class="cs_m0">
-                            We are dedicated to transforming businesses in Dubai through innovative digital strategies and expert execution. We specialize in helping businesses like yours succeed online, offering everything from web design to AI solutions and comprehensive marketing campaigns.
-                        </p>
+                    </div>
+                </div>
+                </div>
+            <div class="container">
+                <div class="cs_swiper_controll">
+                    <div class="cs_pagination cs_style2 cs_primary_font"></div>
+                    <div class="cs_swiper_navigation_wrap">
+                        <div class="cs_swiper_button_prev">
+                            <svg width="82" height="24" viewBox="0 0 82 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M82 1H2L24 23" stroke="currentColor" />
+                            </svg>
+                        </div>
+                        <div class="cs_swiper_button_next">
+                            <svg width="82" height="24" viewBox="0 0 82 24" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path d="M0 23H80L58 1" stroke="currentColor" />
+                            </svg>
+                        </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="swiper-slide">
-            <div class="cs_about cs_style_1">
-                 <div class="cs_about_bg cs_bg" data-src="assets/img/about_img2.png"></div>
-                <div class="container">
-                    <div class="cs_about_text">
-                        <div class="cs_section_heading cs_style_1">
-                            <div class="cs_section_heading_text">
-                                <div class="cs_section_subtitle">About Spring Future</div>
-                                <h2 class="cs_section_title">
-                                    Certified, Trusted, Award Winning (2025)
-                                </h2>
-                            </div>
-                        </div>
-                        <div class="cs_height_40 cs_height_lg_30"></div>
-                        <p class="cs_m0">
-                            We are dedicated to transforming businesses in Dubai through innovative digital strategies and expert execution. We specialize in helping businesses like yours succeed online, offering everything from web design to AI solutions and comprehensive marketing campaigns.
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-        </div>
-    <div class="container">
-        <div class="cs_swiper_controll">
-            <div class="cs_pagination cs_style2 cs_primary_font"></div>
-            <div class="cs_swiper_navigation_wrap">
-                <div class="cs_swiper_button_prev">
-                    <svg width="82" height="24" viewBox="0 0 82 24" fill="none"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <path d="M82 1H2L24 23" stroke="currentColor" />
-                    </svg>
-                </div>
-                <div class="cs_swiper_button_next">
-                    <svg width="82" height="24" viewBox="0 0 82 24" fill="none"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <path d="M0 23H80L58 1" stroke="currentColor" />
-                    </svg>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+        </section>
 
         <div class="cs_height_150 cs_height_lg_60"></div>
 
@@ -217,7 +196,7 @@
                 <div class="cs_card_1_list">
                     <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.webp">
+                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
                                 01
                             </div>
                         </div>
@@ -240,7 +219,7 @@
                     </div>
                      <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_2.webp">
+                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
                                 02
                             </div>
                         </div>
@@ -263,7 +242,7 @@
                     </div>
                     <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_3.webp">
+                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
                                 03
                             </div>
                         </div>
@@ -286,7 +265,7 @@
                     </div>
                      <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_2.webp">
+                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
                                 04
                             </div>
                         </div>
@@ -485,9 +464,9 @@
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
-                                                        Mariana Valdes </h3>
+                                                        Client Name 1 </h3>
                                                     <div class="cs_testimonial_avatar_designation">
-                                                        CEO, Karioni </div>
+                                                        CEO, Company Name </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -505,9 +484,9 @@
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
-                                                        Ahmad Saber </h3>
+                                                        Client Name 2 </h3>
                                                     <div class="cs_testimonial_avatar_designation">
-                                                        Operations Manager, Sooni </div>
+                                                        Operations Manager, Another Company </div>
                                                 </div>
                                             </div>
                                         </div>
@@ -529,8 +508,8 @@
                     <div class="cs_funfact cs_style1">
                         <div class="cs_funfact_number cs_stroke_text me-4">
                             <div class="">
-                                <span id="count1" class="amin_auto_count">910</span> </div>
-                            <span>+</span> </div>
+                                <span id="count1" class="amin_auto_count">91</span> </div>
+                            <span>K+</span> </div>
                         <div class="cs_funfact_text cs_primary_font">
                             <p>Project Completed</p>
                         </div>
@@ -582,121 +561,71 @@
         </div>
         <div class="cs_height_150 cs_height_lg_60"></div>
 
-
-        
-
-
-
         <section>
-    <div class="container">
-        <div class="cs_section_heading cs_style_1 cs_type_1">
-            <div class="cs_section_heading_text">
-                <div class="cs_section_subtitle anim_div_ShowZoom">
-                    Our Blog
+            <div class="container">
+                <div class="cs_section_heading cs_style_1 cs_type_1">
+                    <div class="cs_section_heading_text">
+                        <div class="cs_section_subtitle anim_div_ShowZoom">
+                            Our Blog
+                        </div>
+                        <h2 class="cs_section_title anim_heading_title">
+                            New Day <br />New Inspiration
+                        </h2>
+                    </div>
+                    <div class="cs_section_heading_right cs_btn_anim">
+                         <a href="blog.php" class="cs_btn cs_style_1"> <span>View All Blogs</span>
+                            <svg width="19" height="13" viewBox="0 0 19 13" fill="none"
+                                xmlns="http://www.w3.org/2000/svg">
+                                <path
+                                    d="M18.5303 7.03033C18.8232 6.73744 18.8232 6.26256 18.5303 5.96967L13.7574 1.1967C13.4645 0.903806 12.9896 0.903806 12.6967 1.1967C12.4038 1.48959 12.4038 1.96447 12.6967 2.25736L16.9393 6.5L12.6967 10.7426C12.4038 11.0355 12.4038 11.5104 12.6967 11.8033C12.9896 12.0962 13.4645 12.0962 13.7574 11.8033L18.5303 7.03033ZM0 7.25H18V5.75H0V7.25Z"
+                                    fill="currentColor"></path>
+                            </svg>
+                        </a>
+                    </div>
                 </div>
-                <h2 class="cs_section_title anim_heading_title">
-                    New Day <br />New Inspiration
-                </h2>
+                <div class="cs_height_100 cs_height_lg_60"></div>
+                <div class="cs_slider cs_slider_3 anim_blog">
+                    <div class="swiper-wrapper">
+                         <div class="swiper-slide">
+                            <div class="cs_post cs_style_1">
+                                <a href="blog-details.php" class="cs_post_thumb"> <img src="assets/img/post_1.png" alt="Thumb" />
+                                </a>
+                                <div class="cs_post_info">
+                                    <h2 class="cs_post_title">
+                                         <a href="blog-details.php">Why Every Dubai Business Needs a Strong Digital Presence</a> </h2>
+                                    <p class="cs_m0">
+                                        Exploring the importance of digital marketing and web design in the competitive Dubai market... </p>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="swiper-slide">
+                            <div class="cs_post cs_style_1">
+                                <a href="blog-details.php" class="cs_post_thumb"> <img src="assets/img/post_2.png" alt="Thumb" />
+                                </a>
+                                <div class="cs_post_info">
+                                    <h2 class="cs_post_title">
+                                        <a href="blog-details.php">Unlocking Efficiency with AI Automation</a> </h2>
+                                    <p class="cs_m0">
+                                        How AI automation can streamline operations and boost productivity for businesses in the UAE... </p>
+                                </div>
+                            </div>
+                        </div>
+                         <div class="swiper-slide">
+                            <div class="cs_post cs_style_1">
+                                 <a href="blog-details.php" class="cs_post_thumb"> <img src="assets/img/post_3.png" alt="Thumb" />
+                                </a>
+                                <div class="cs_post_info">
+                                    <h2 class="cs_post_title">
+                                        <a href="blog-details.php">The Power of Social Media Marketing in 2024</a> </h2>
+                                    <p class="cs_m0">
+                                        Strategies for effective social media engagement and advertising to reach your target audience... </p>
+                                </div>
+                            </div>
+                        </div>
+                        </div>
+                </div>
             </div>
-            <div class="cs_section_heading_right cs_btn_anim">
-                 <a href="/blog/" class="cs_btn cs_style_1"> <span>View All Blogs</span>
-                    <svg width="19" height="13" viewBox="0 0 19 13" fill="none"
-                        xmlns="http://www.w3.org/2000/svg">
-                        <path
-                            d="M18.5303 7.03033C18.8232 6.73744 18.8232 6.26256 18.5303 5.96967L13.7574 1.1967C13.4645 0.903806 12.9896 0.903806 12.6967 1.1967C12.4038 1.48959 12.4038 1.96447 12.6967 2.25736L16.9393 6.5L12.6967 10.7426C12.4038 11.0355 12.4038 11.5104 12.6967 11.8033C12.9896 12.0962 13.4645 12.0962 13.7574 11.8033L18.5303 7.03033ZM0 7.25H18V5.75H0V7.25Z"
-                            fill="currentColor"></path>
-                    </svg>
-                </a>
-            </div>
-        </div>
-        <div class="cs_height_100 cs_height_lg_60"></div>
-        <div class="cs_slider cs_slider_3 anim_blog">
-            <div class="swiper-wrapper">
-                <div class="swiper-slide">
-                    <div class="cs_post cs_style_1">
-                        <a href="https://sfuae.co/android-app-development-dubai/" class="cs_post_thumb" target="_blank">
-                            <img src="https://sfuae.co/wp-content/uploads/2025/01/Android-App-Development-Dubai-Business-Growth-100.webp" alt="Android App Development Dubai: Business Growth 100%" />
-                        </a>
-                        <div class="cs_post_info">
-                            <h2 class="cs_post_title">
-                                 <a href="https://sfuae.co/android-app-development-dubai/" target="_blank">Android App Development Dubai: Business Growth 100%</a>
-                             </h2>
-                            <p class="cs_m0">
-                                A dedicated Android app can expand your reach to customers in Dubai and guarantee 100% business growth. Explore the benefits.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                 <div class="swiper-slide">
-                    <div class="cs_post cs_style_1">
-                        <a href="https://sfuae.co/custom-web-development-dubai/" class="cs_post_thumb" target="_blank">
-                             <img src="https://sfuae.co/wp-content/uploads/2025/01/Custom-Web-Development-Dubai-Your-Key-to-Online-Success.webp" alt="Custom Web Development Dubai: Your Key to Online Success" />
-                        </a>
-                        <div class="cs_post_info">
-                            <h2 class="cs_post_title">
-                                <a href="https://sfuae.co/custom-web-development-dubai/" target="_blank">Custom Web Development Dubai: Your Key to Online Success</a>
-                            </h2>
-                            <p class="cs_m0">
-                                Establish a powerful and successful online presence in Dubai with custom web design tailored precisely to your business needs.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                 <div class="swiper-slide">
-                    <div class="cs_post cs_style_1">
-                         <a href="https://sfuae.co/online-store-development-dubai/" class="cs_post_thumb" target="_blank">
-                             <img src="https://sfuae.co/wp-content/uploads/2024/12/Online-Store-Development-Dubai-COMPREHENSIVE-GUIDE.webp" alt="Online Store Development Dubai: COMPREHENSIVE GUIDE" />
-                        </a>
-                        <div class="cs_post_info">
-                            <h2 class="cs_post_title">
-                                <a href="https://sfuae.co/online-store-development-dubai/" target="_blank">Online Store Development Dubai: COMPREHENSIVE GUIDE</a>
-                            </h2>
-                            <p class="cs_m0">
-                                Your comprehensive guide to launching a successful online store in Dubai, covering platform selection through sales strategies.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                 <div class="swiper-slide">
-                    <div class="cs_post cs_style_1">
-                         <a href="https://sfuae.co/ecommerce-website-development-dubai/" class="cs_post_thumb" target="_blank">
-                             <img src="https://sfuae.co/wp-content/uploads/2024/12/Ecommerce-Website-Development-Dubai-FULL-GUIDE.webp" alt="Ecommerce Website Development Dubai: FULL GUIDE" />
-                        </a>
-                        <div class="cs_post_info">
-                            <h2 class="cs_post_title">
-                                <a href="https://sfuae.co/ecommerce-website-development-dubai/" target="_blank">Ecommerce Website Development Dubai: FULL GUIDE</a>
-                            </h2>
-                            <p class="cs_m0">
-                               Discover all the key points for building a professional and high-performing e-commerce website in Dubai's competitive market.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                 <div class="swiper-slide">
-                    <div class="cs_post cs_style_1">
-                         <a href="https://sfuae.co/website-development-company-in-dubai/" class="cs_post_thumb" target="_blank">
-                             <img src="https://sfuae.co/wp-content/uploads/2024/09/04-Exploring-the-Leading-Best-Website-Design-Platforms.webp" alt="Website Development Company in Dubai: All You Need to Know" />
-                        </a>
-                        <div class="cs_post_info">
-                            <h2 class="cs_post_title">
-                                <a href="https://sfuae.co/website-development-company-in-dubai/" target="_blank">Website Development Company in Dubai: All You Need to Know</a>
-                            </h2>
-                            <p class="cs_m0">
-                                Learn the crucial criteria for selecting the best website development company in Dubai to achieve your online goals effectively.
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                </div>
-        </div>
-    </div>
-</section>
-
-
-
-
-
-
+        </section>
         <div class="cs_height_150 cs_height_lg_60"></div>
         <div class="container">
             <div class="cs_newsletter cs_style_1 cs_primary_bg cs_shape_wrap_1 cs_parallax">
