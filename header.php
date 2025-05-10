@@ -67,9 +67,19 @@ $search_console_verification = "YOUR_VERIFICATION_STRING"; // <<<<< جایگزی
     <div class="cs_preloader cs_center">
         <div class="cs_preloader_in">
             <div class="loading loading05">
-                <span>S</span><span>P</span><span>R</span><span>I</span><span>N</span><span>G</span>
+                <span>S</span>
+                <span>P</span>
+                <span>R</span>
+                <span>I</span>
+                <span>N</span>
+                <span>G</span>
                 <span>&nbsp;</span>
-                <span>F</span><span>U</span><span>T</span><span>U</span><span>R</span><span>E</span>
+                <span>F</span>
+                <span>U</span>
+                <span>T</span>
+                <span>U</span>
+                <span>R</span>
+                <span>E</span>
             </div>
         </div>
     </div>

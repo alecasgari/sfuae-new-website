@@ -29,7 +29,7 @@
                                     <div class="cs_height_65 cs_height_lg_40"></div>
                                     <div class="cs_hero_btn_wrap">
                                         <div class="cs_round_btn_wrap">
-                                            <a href="portfolio.php"
+                                            <a href="/portfolio"
                                                 class="cs_hero_btn cs_round_btn btn-item"><span></span>
                                                 Our Projects
                                             </a>
@@ -224,7 +224,7 @@
                         <div class="cs_card_right">
                             <div class="cs_card_right_in">
                                 <h2 class="cs_card_title">
-                                    <a href="service-details.php">Web Design</a>
+                                    <a href="/website-design-company-in-dubai">Web Design</a>
                                 </h2>
                                 <div class="cs_card_subtitle">
                                     Mobile & Desktop versions, Responsive design, E-Commerce solutions, Hosting, Domain, Maintenance, and SEO optimization.
@@ -232,7 +232,7 @@
                             </div>
                         </div>
                         <div class="cs_card_link_wrap">
-                             <a href="service-details.php" class="cs_card_link">
+                             <a href="website-design-company-in-dubai/" class="cs_card_link">
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                             </a>
@@ -247,7 +247,7 @@
                         <div class="cs_card_right">
                             <div class="cs_card_right_in">
                                 <h2 class="cs_card_title">
-                                     <a href="service-details.php">AI Solutions</a>
+                                     <a href="/ai-artificial-intelligence">AI Solutions</a>
                                 </h2>
                                 <div class="cs_card_subtitle">
                                     AI Chatbots, AI Automation, and AI Audits to optimize your business processes and enhance customer interactions.
@@ -255,7 +255,7 @@
                             </div>
                         </div>
                         <div class="cs_card_link_wrap">
-                             <a href="service-details.php" class="cs_card_link">
+                             <a href="/ai-artificial-intelligence" class="cs_card_link">
                                <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                             </a>
@@ -270,7 +270,7 @@
                         <div class="cs_card_right">
                             <div class="cs_card_right_in">
                                 <h2 class="cs_card_title">
-                                     <a href="service-details.php">Social Media & Event Management</a>
+                                     <a href="/digital-marketing">Social Media & Event Management</a>
                                 </h2>
                                 <div class="cs_card_subtitle">
                                     Engaging content creation, ad campaigns across platforms (Facebook, Instagram, LinkedIn, X), and complete event planning with digital support.
@@ -278,7 +278,7 @@
                             </div>
                         </div>
                         <div class="cs_card_link_wrap">
-                            <a href="service-details.php" class="cs_card_link">
+                            <a href="/digital-marketing" class="cs_card_link">
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                             </a>
@@ -293,7 +293,7 @@
                         <div class="cs_card_right">
                             <div class="cs_card_right_in">
                                 <h2 class="cs_card_title">
-                                     <a href="service-details.php">Direct Marketing</a>
+                                     <a href="/marketing">Direct Marketing</a>
                                 </h2>
                                 <div class="cs_card_subtitle">
                                     Targeted Email and WhatsApp marketing campaigns, automation, and bulk messaging for direct engagement and lasting connections.
@@ -301,7 +301,7 @@
                             </div>
                         </div>
                         <div class="cs_card_link_wrap">
-                             <a href="service-details.php" class="cs_card_link">
+                             <a href="/marketing" class="cs_card_link">
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                                 <span><svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M0.340728 29.2063C0.722095 29.5875 1.34043 29.5875 1.72188 29.2063L29.0656 1.8625C29.4469 1.48106 29.4469 0.862698 29.0656 0.481253C28.6842 0.100002 28.0658 0.100002 27.6844 0.481253L0.340728 27.825C-0.0406592 28.2064 -0.0406592 28.8248 0.340728 29.2063Z" fill="currentColor"/><path fill-rule="evenodd" clip-rule="evenodd" d="M28.375 26.5625C28.9143 26.5625 29.3516 26.1252 29.3516 25.5859V1.17188C29.3516 0.632618 28.9143 0.195312 28.375 0.195312H3.96094C3.42168 0.195312 2.98438 0.632618 2.98438 1.17188C2.98438 1.71113 3.42168 2.14844 3.96094 2.14844H27.3984V25.5859C27.3984 26.1252 27.8357 26.5625 28.375 26.5625Z" fill="currentColor"/></svg></span>
                             </a>
@@ -330,7 +330,7 @@
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
                         <div class="cs_horizontal_scroll">
-                             <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
+                             <a href="/portfolio" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
                                     <img src="<?php echo $base_path; ?>assets_new/img/portfolio_1.webp" alt="Thumb" />
                                 </div>
@@ -346,7 +346,7 @@
                     </div>
                     <div class="swiper-slide">
                         <div class="cs_horizontal_scroll">
-                              <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
+                              <a href="/portfolio" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
                                     <img src="<?php echo $base_path; ?>assets_new/img/portfolio_2.webp" alt="Thumb" />
                                 </div>
@@ -362,7 +362,7 @@
                     </div>
                      <div class="swiper-slide">
                         <div class="cs_horizontal_scroll">
-                            <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
+                            <a href="/portfolio" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
                                     <img src="<?php echo $base_path; ?>assets_new/img/portfolio_3.webp" alt="Thumb" />
                                 </div>
@@ -481,7 +481,7 @@
                                                 “Spring Future delivered an exceptional website that perfectly captured our brand vision. Their team was professional, responsive, and highly skilled. Highly recommended!” </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                     <img src="<?php echo $base_path; ?>assets_new/img/avatar_1.png" alt="Avatar" />
+                                                     <img src="<?php echo $base_path; ?>assets_new/img/avatar_1.webp" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -501,7 +501,7 @@
                                                 “The AI automation solution provided by Spring Future has significantly improved our workflow efficiency. Their expertise in AI is truly impressive.” </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                     <img src="<?php echo $base_path; ?>assets_new/img/avatar_1.png" alt="Avatar" />
+                                                     <img src="<?php echo $base_path; ?>assets_new/img/avatar_1.webp" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -571,7 +571,7 @@
         <div class="cs_height_150 cs_height_lg_60"></div>
         <div class="container">
             <div class="cs_parallax">
-                 <a href="https://www.youtube.com/watch?v=VcaAVWtP48A"
+                 <a href="https://www.youtube.com/watch?v=yBgF2vXdkjQ"
                     class="cs_video_block cs_style1 cs_video_open cs_bg cs_parallax_bg"
                     data-src="<?php echo $base_path; ?>assets_new/img/video_block.webp">
                     <span class="cs_player_btn cs_accent_color">

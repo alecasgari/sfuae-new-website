@@ -41,10 +41,10 @@ if (!isset($base_path)) { // Check if $base_path is already set (e.g., by header
             </div>
             <div class="col-lg-6 offset-lg-1">
                 <div class="cs_footer_social">
-                    <a href="https://www.facebook.com/SpringFutureUAE/" class="cs_center" target="_blank">Facebook</a>
+                    <a href="https://www.facebook.com/sfuae.co" class="cs_center" target="_blank">Facebook</a>
                     <a href="https://www.linkedin.com/company/spring-future/" class="cs_center" target="_blank">Linkedin</a>
                     <a href="https://www.instagram.com/sfuae.co/" class="cs_center" target="_blank">Instagram</a>
-                    <a href="https://twitter.com/SpringFutureUAE" class="cs_center" target="_blank">Twitter</a>
+                    <a href="https://twitter.com/AlecAsgari" class="cs_center" target="_blank">Twitter</a>
                     <a href="https://wa.me/971504302948" class="cs_center" target="_blank">WhatsApp</a>
                 </div>
                 <div class="cs_height_60 cs_height_lg_30"></div>
