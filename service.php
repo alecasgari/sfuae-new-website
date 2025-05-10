@@ -19,7 +19,7 @@
                 <div class="cs_card_1_list">
                     <div class="cs_card cs_style_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.png">
                                 01
                             </div>
                         </div>
@@ -63,7 +63,7 @@
                     </div>
                     <div class="cs_card cs_style_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.png">
                                 02
                             </div>
                         </div>
@@ -107,7 +107,7 @@
                     </div>
                     <div class="cs_card cs_style_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.png">
                                 03
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                     </div>
                     <div class="cs_card cs_style_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.png">
                                 04
                             </div>
                         </div>
@@ -195,7 +195,7 @@
                     </div>
                     <div class="cs_card cs_style_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.png">
                                 05
                             </div>
                         </div>
@@ -239,7 +239,7 @@
                     </div>
                     <div class="cs_card cs_style_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.png">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.png">
                                 06
                             </div>
                         </div>
@@ -392,7 +392,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div>
-                            <img src="assets/img/testimonial_thumb_1.png" alt="testimonial_thumb_1" class="w-100" />
+                            <img src="/assets_new/img/testimonial_thumb_1.png" alt="testimonial_thumb_1" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-7 offset-lg-1">
@@ -422,7 +422,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -455,7 +455,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -488,7 +488,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">

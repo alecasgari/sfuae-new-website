@@ -27,7 +27,7 @@
                                 </svg>
                             </div>
                             <div class="position-absolute cs_ceneter_text">
-                                <img src="assets/img/logo.webp" alt="Spring Future Logo" />
+                                <img src="/assets_new/img/logo.webp" alt="Spring Future Logo" />
                             </div>
                         </div>
                     </div>
@@ -38,7 +38,7 @@
         <div class="container">
             <div class="cs_parallax">
                 <a href="https://www.youtube.com/watch?v=your_video_id_here" class="cs_video_block cs_style1 cs_video_open cs_bg cs_parallax_bg"
-                    data-src="assets/img/video_block.webp"> <span class="cs_player_btn cs_accent_color">
+                    data-src="/assets_new/img/video_block.webp"> <span class="cs_player_btn cs_accent_color">
                         <span></span>
                     </span>
                 </a>
@@ -143,15 +143,15 @@
             <div class="container">
                 <div class="cs_agency agency_about_images_posation">
                     <div class="cs_img_section_1">
-                        <img src="assets/img/agency_story_1.webp" alt="Spring Future Agency Story - Image 1" class="w-100" />
+                        <img src="/assets_new/img/agency_story_1.webp" alt="Spring Future Agency Story - Image 1" class="w-100" />
                     </div>
                     <div class="cs_img_section_2">
-                        <img src="assets/img/agency_story_2.webp" alt="Spring Future Agency Story - Image 2" class="w-100" />
+                        <img src="/assets_new/img/agency_story_2.webp" alt="Spring Future Agency Story - Image 2" class="w-100" />
                     </div>
                     <div class="cs_img_section_3">
                         <div class="text-end">
-                             <img src="assets/img/agency_story_4.webp" alt="Spring Future Agency Story - Image 3" />
-                             <img src="assets/img/agency_story_3.webp" class="w-100" alt="Spring Future Agency Story - Image 4" />
+                             <img src="/assets_new/img/agency_story_4.webp" alt="Spring Future Agency Story - Image 3" />
+                             <img src="/assets_new/img/agency_story_3.webp" class="w-100" alt="Spring Future Agency Story - Image 4" />
                         </div>
                     </div>
                 </div>
@@ -185,7 +185,7 @@
 
                 <div class="cs_team_section anim_blog">
                     <div class="cs_team_img">
-                        <a href="team-details.php"> <img src="assets/img/teamsimg1.webp" alt="Team Member 1" />
+                        <a href="team-details.php"> <img src="/assets_new/img/teamsimg1.webp" alt="Team Member 1" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -196,7 +196,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.php">
-                            <img src="assets/img/teamsimg2.webp" alt="Team Member 2" />
+                            <img src="/assets_new/img/teamsimg2.webp" alt="Team Member 2" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -208,7 +208,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.php">
-                             <img src="assets/img/teamsimg3.webp" alt="Team Member 3" />
+                             <img src="/assets_new/img/teamsimg3.webp" alt="Team Member 3" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
 
@@ -221,7 +221,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.php">
-                             <img src="assets/img/teamsimg4.webp" alt="Team Member 4" />
+                             <img src="/assets_new/img/teamsimg4.webp" alt="Team Member 4" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -267,7 +267,7 @@
                     <div class="cs_card cs_style_2 cs_hover_tab active anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_1.svg" alt="Achievement 1" />
+                                <img src="/assets_new/img/award_1.svg" alt="Achievement 1" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">Best Digital Solution for Business Growth</h2>
@@ -280,13 +280,13 @@
                             <h2 class="cs_card_brand">Client Accolades</h2>
                         </div>
                         <div class="cs_card_hover_img">
-                             <img src="assets/img/award_thumb_1.webp" alt="Achievement Image 1" />
+                             <img src="/assets_new/img/award_thumb_1.webp" alt="Achievement Image 1" />
                         </div>
                     </div>
                     <div class="cs_card cs_style_2 cs_hover_tab anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_2.svg" alt="Achievement 2" />
+                                <img src="/assets_new/img/award_2.svg" alt="Achievement 2" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">Innovation in User Experience (UX) Design</h2>
@@ -299,7 +299,7 @@
                             <h2 class="cs_card_brand">User Feedback</h2>
                         </div>
                         <div class="cs_card_hover_img">
-                            <img src="assets/img/award_thumb_2.webp" alt="Achievement Image 2" />
+                            <img src="/assets_new/img/award_thumb_2.webp" alt="Achievement Image 2" />
                         </div>
                     </div>
                    
@@ -334,7 +334,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div>
-                            <img src="assets/img/testimonial_thumb_1.webp" alt="Spring Future Client Testimonials" class="w-100" />
+                            <img src="/assets_new/img/testimonial_thumb_1.webp" alt="Spring Future Client Testimonials" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-7 offset-lg-1">
@@ -362,7 +362,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/agency_story_1.webp" alt="Client Avatar 1" />
+                                                    <img src="/assets_new/img/agency_story_1.webp" alt="Client Avatar 1" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -393,7 +393,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/hero_img_2.webp" alt="Client Avatar 2" />
+                                                    <img src="/assets_new/img/hero_img_2.webp" alt="Client Avatar 2" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -431,13 +431,13 @@
             <div class="cs_slider cs_slider_6">
                 <div class="swiper-wrapper">
                     <div class="swiper-slide">
-                        <img src="assets/img/portfolio_1.webp" class="card-img" alt="Portfolio Work 1" />
+                        <img src="/assets_new/img/portfolio_1.webp" class="card-img" alt="Portfolio Work 1" />
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/portfolio_2.webp" class="card-img" alt="Portfolio Work 2" />
+                        <img src="/assets_new/img/portfolio_2.webp" class="card-img" alt="Portfolio Work 2" />
                     </div>
                     <div class="swiper-slide">
-                        <img src="assets/img/portfolio_3.webp" class="card-img" alt="Portfolio Work 3" />
+                        <img src="/assets_new/img/portfolio_3.webp" class="card-img" alt="Portfolio Work 3" />
                     </div>
 
                 </div>
@@ -460,32 +460,32 @@
                 <div class="cs_moving_section cs_animation_speed_40">
                     <div class="cs_partner_logo_wrap">
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_1.svg" alt="Partner Logo 1" />
+                            <img src="/assets_new/img/partner_1.svg" alt="Partner Logo 1" />
                         </div>
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_2.svg" alt="Partner Logo 2" />
+                            <img src="/assets_new/img/partner_2.svg" alt="Partner Logo 2" />
                         </div>
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_3.svg" alt="Partner Logo 3" />
+                            <img src="/assets_new/img/partner_3.svg" alt="Partner Logo 3" />
                         </div>
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_4.svg" alt="Partner Logo 4" />
+                            <img src="/assets_new/img/partner_4.svg" alt="Partner Logo 4" />
                         </div>
                         </div>
                 </div>
                 <div class="cs_moving_section cs_animation_speed_40">
                      <div class="cs_partner_logo_wrap">
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_5.svg" alt="Partner Logo 1" />
+                            <img src="/assets_new/img/partner_5.svg" alt="Partner Logo 1" />
                         </div>
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_6.svg" alt="Partner Logo 2" />
+                            <img src="/assets_new/img/partner_6.svg" alt="Partner Logo 2" />
                         </div>
                          <div class="cs_partner_logo">
-                            <img src="assets/img/partner_7.svg" alt="Partner Logo 3" />
+                            <img src="/assets_new/img/partner_7.svg" alt="Partner Logo 3" />
                         </div>
                         <div class="cs_partner_logo">
-                            <img src="assets/img/partner_8.svg" alt="Partner Logo 4" />
+                            <img src="/assets_new/img/partner_8.svg" alt="Partner Logo 4" />
                         </div>
                         </div>
                 </div>

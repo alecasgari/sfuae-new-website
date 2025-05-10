@@ -8,7 +8,7 @@
         <section>
             <div class="cs_hero cs_style3 cs_bg_color">
                 <div class="cs_banner_img">
-                    <img src="assets/img/creative_banner_img.png" class="h-100 w-100" alt="creative_banner_img" />
+                    <img src="/assets_new/img/creative_banner_img.png" class="h-100 w-100" alt="creative_banner_img" />
                 </div>
                 <div class="container">
                     <div class="cs_hero_text">
@@ -46,7 +46,7 @@
                 <div class="row cs_cr_pr cs_row_gap_150">
                     <div class="col-md-6 mb-4">
                         <div class="h-100">
-                            <img src="assets/img/cp_services.png" class="w-100 h-100 anim_div_ShowLeftSide"
+                            <img src="/assets_new/img/cp_services.png" class="w-100 h-100 anim_div_ShowLeftSide"
                                 alt="cp_services" />
                         </div>
                     </div>
@@ -280,7 +280,7 @@
                             <div class="col-md-4 cs_project_card cs_ui_design cs_development anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_1.png" alt="recent_project_1" />
+                                        <img src="/assets_new/img/recent_project_1.png" alt="recent_project_1" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -291,7 +291,7 @@
                             <div class="col-md-4 cs_project_card cs_finance cs_ux_desing anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_2.png" alt="recent_project_2" />
+                                        <img src="/assets_new/img/recent_project_2.png" alt="recent_project_2" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -302,7 +302,7 @@
                             <div class="col-md-4 cs_project_card cs_ui_design anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_3.png" alt="recent_project_3" />
+                                        <img src="/assets_new/img/recent_project_3.png" alt="recent_project_3" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -314,7 +314,7 @@
                             <div class="col-md-4 cs_project_card cs_finance cs_development anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_4.png" alt="recent_project_4" />
+                                        <img src="/assets_new/img/recent_project_4.png" alt="recent_project_4" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -325,7 +325,7 @@
                             <div class="col-md-4 cs_project_card cs_finance cs_ux_desing anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_5.png" alt="recent_project_5" />
+                                        <img src="/assets_new/img/recent_project_5.png" alt="recent_project_5" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -336,7 +336,7 @@
                             <div class="col-md-4 cs_project_card cs_ui_design cs_development anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_6.png" alt="recent_project_6" />
+                                        <img src="/assets_new/img/recent_project_6.png" alt="recent_project_6" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -348,7 +348,7 @@
                             <div class="col-md-4 cs_project_card cs_ux_desing anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_7.png" alt="recent_project_7" />
+                                        <img src="/assets_new/img/recent_project_7.png" alt="recent_project_7" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -359,7 +359,7 @@
                             <div class="col-md-4 cs_project_card cs_development anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_8.png" alt="recent_project_8" />
+                                        <img src="/assets_new/img/recent_project_8.png" alt="recent_project_8" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -370,7 +370,7 @@
                             <div class="col-md-4 cs_project_card cs_development anim_div_ShowDowns">
                                 <a href="portfolio-details.html">
                                     <div class="cs_project_card_img">
-                                        <img src="assets/img/recent_project_9.png" alt="recent_project_9" />
+                                        <img src="/assets_new/img/recent_project_9.png" alt="recent_project_9" />
                                     </div>
                                     <div class="cs_project_card_text">
                                         <h6 class="cs_title">Project Task Management</h6>
@@ -414,7 +414,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div>
-                            <img src="assets/img/testimonial_thumb_1.png" alt="cp_services" class="w-100" />
+                            <img src="/assets_new/img/testimonial_thumb_1.png" alt="cp_services" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-7 offset-lg-1">
@@ -444,7 +444,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -477,7 +477,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -510,7 +510,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -566,7 +566,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_1.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_1.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -582,7 +582,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_2.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_2.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -598,7 +598,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_3.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_3.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -614,7 +614,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src=" assets/img/post_1.png" alt="Thumb" />
+                                    <img src=" /assets_new/img/post_1.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -630,7 +630,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_2.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_2.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -646,7 +646,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_3.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_3.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">

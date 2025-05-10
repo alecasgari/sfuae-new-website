@@ -1,0 +1,27 @@
+
+# 1. Set the default file for directory requests (e.g., yourdomain.com/)
+#    Now points to your new homepage filename. WordPress's index.php can be secondary.
+DirectoryIndex home.php index.php index.html
+
+<IfModule mod_rewrite.c>
+    RewriteEngine On
+    RewriteBase /
+
+    # No specific rules needed for home.php, about.php, or contact.php if accessed by filename.
+    # Apache will serve them because they are existing files,
+    # and %{REQUEST_FILENAME} !-f in WordPress rules will prevent WP takeover.
+</IfModule>
+
+# BEGIN WordPress
+# Make sure this is the standard WordPress block.
+# It should now unambiguously use WordPress's own index.php for its routing.
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteRule .* - [E=HTTP_AUTHORIZATION:%{HTTP:Authorization}]
+RewriteBase /
+RewriteRule ^index\.php$ - [L] # This now clearly refers to WordPress's index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule . /index.php [L] # This routes to WordPress's index.php (its router)
+</IfModule>
+# END WordPress

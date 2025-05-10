@@ -6,7 +6,7 @@ $current_page = basename($_SERVER['PHP_SELF']);
 
 // Default Title and Favicon - Can be overridden by individual pages if needed
 $site_title = "Spring Future - Digital Innovation Agency";
-$favicon_path = "assets/img/logo/sf-circle-logo.png"; // Ensure this favicon exists
+$favicon_path = "/assets_new/img/logo/sf-circle-logo.png"; // Ensure this favicon exists
 
 // You can define meta tags here or in individual pages
 $meta_author = "Spring Future";
@@ -24,10 +24,10 @@ $meta_keywords = "Spring Future, AI, Digital Marketing, Web Design, Event Manage
     <link rel="icon" href="<?php echo $favicon_path; ?>" />
     <title><?php echo $site_title; // Use a dynamic title, or set one per page before including header.php ?></title>
 
-    <link rel="stylesheet" href="assets/css/plugins/bootstrap.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/lightgallery.min.css" />
-    <link rel="stylesheet" href="assets/css/plugins/swiper.min.css" />
-    <link rel="stylesheet" href="assets/css/style.css" />
+    <link rel="stylesheet" href="/assets_new/css/plugins/bootstrap.min.css" />
+    <link rel="stylesheet" href="/assets_new/css/plugins/lightgallery.min.css" />
+    <link rel="stylesheet" href="/assets_new/css/plugins/swiper.min.css" />
+    <link rel="stylesheet" href="/assets_new/css/style.css" />
 
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -65,16 +65,16 @@ $meta_keywords = "Spring Future, AI, Digital Marketing, Web Design, Event Manage
                 <div class="cs_main_header_in">
                     <div class="cs_main_header_left">
                         <a class="cs_site_branding logo-dark" href="index.php">
-                            <img src="assets/img/logo/logo.webp" alt="Spring Future Logo">
+                            <img src="/assets_new/img/logo/logo.webp" alt="Spring Future Logo">
                         </a>
                         <a class="cs_site_branding logo-white" href="index.php">
-                            <img src="assets/img/logo/logo_white.webp" alt="Spring Future Logo White">
+                            <img src="/assets_new/img/logo/logo_white.webp" alt="Spring Future Logo White">
                         </a>
                     </div>
                     <div class="cs_main_header_right">
                         <nav class="cs_nav cs_medium"> <ul class="cs_nav_list">
-                                <li <?php echo ($current_page == 'index.php') ? 'class="active"' : ''; ?>>
-                                    <a href="index.php">Home</a>
+                                <li <?php echo ($current_page == 'home.php') ? 'class="active"' : ''; ?>>
+                                    <a href="home.php">Home</a>
                                 </li>
                                 <li class="menu-item-has-children <?php echo (in_array($current_page, ['digital-marketing.php', 'ai-solutions.php', 'event-management.php'])) ? 'active' : ''; ?>">
                                     <a href="#">Services</a>
@@ -114,7 +114,7 @@ $meta_keywords = "Spring Future, AI, Digital Marketing, Web Design, Event Manage
         <button class="cs_close" aria-label="Close mobile menu"></button> <div class="cs_side_header_overlay"></div>
         <div class="cs_side_header_in">
             <div class="cs_side_header_top"> <a class="cs_site_branding" href="index.php">
-                    <img src="assets/img/logo/logo_white.webp" alt="Spring Future Logo" />
+                    <img src="/assets_new/img/logo/logo_white.webp" alt="Spring Future Logo" />
                 </a>
             </div>
 

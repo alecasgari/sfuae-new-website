@@ -22,7 +22,7 @@
                 <div class="cs_team_section anim_div_ShowDowns">
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg1.png" alt="teamsimg1" />
+                            <img src="/assets_new/img/teamsimg1.png" alt="teamsimg1" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
 
@@ -35,7 +35,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg2.png" alt="teamsimg2" />
+                            <img src="/assets_new/img/teamsimg2.png" alt="teamsimg2" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -47,7 +47,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg3.png" alt="teamsimg3" />
+                            <img src="/assets_new/img/teamsimg3.png" alt="teamsimg3" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
 
@@ -60,7 +60,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg4.png" alt="teamsimg4" />
+                            <img src="/assets_new/img/teamsimg4.png" alt="teamsimg4" />
 
                             <div class="cs_portfolio_overlay"></div>
                         </a>
@@ -76,7 +76,7 @@
                 <div class="cs_team_section anim_div_ShowDowns">
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg5.png" alt="teamsimg5" />
+                            <img src="/assets_new/img/teamsimg5.png" alt="teamsimg5" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -88,7 +88,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg6.png" alt="teamsimg6" />
+                            <img src="/assets_new/img/teamsimg6.png" alt="teamsimg6" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -100,7 +100,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg7.png" alt="teamsimg7" />
+                            <img src="/assets_new/img/teamsimg7.png" alt="teamsimg7" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -112,7 +112,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg8.png" alt="teamsimg8" />
+                            <img src="/assets_new/img/teamsimg8.png" alt="teamsimg8" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">

@@ -7,7 +7,7 @@
             <div class="swiper-wrapper">
                 <div class="swiper-slide">
                     <div class="cs_hero cs_style1 cs_center cs_parallax">
-                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_1.webp"></div>
+                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="/assets_new/img/hero_img_1.webp"></div>
                         <div class="container">
                             <div class="cs_hero_text">
                                 <div class="cs_hero_mini_title">
@@ -42,7 +42,7 @@
                 </div>
                 <div class="swiper-slide">
                      <div class="cs_hero cs_style1 cs_center cs_parallax">
-                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_2.webp"></div>
+                        <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="/assets_new/img/hero_img_2.webp"></div>
                         <div class="container">
                             <div class="cs_hero_text">
                                 <div class="cs_hero_mini_title">
@@ -75,7 +75,7 @@
                 </div>
                  <div class="swiper-slide">
                      <div class="cs_hero cs_style1 cs_center cs_parallax">
-                         <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/hero_img_3.webp  "></div>
+                         <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="/assets_new/img/hero_img_3.webp  "></div>
                         <div class="container">
                             <div class="cs_hero_text">
                                 <div class="cs_hero_mini_title">
@@ -125,7 +125,7 @@
     <div class="swiper-wrapper">
         <div class="swiper-slide">
             <div class="cs_about cs_style_1">
-                <div class="cs_about_bg cs_bg" data-src="assets/img/about_img.webp"></div>
+                <div class="cs_about_bg cs_bg" data-src="/assets_new/img/about_img.webp"></div>
                 <div class="container">
                     <div class="cs_about_text">
                         <div class="cs_section_heading cs_style_1">
@@ -146,7 +146,7 @@
         </div>
         <div class="swiper-slide">
             <div class="cs_about cs_style_1">
-                 <div class="cs_about_bg cs_bg" data-src="assets/img/about_img2.webp"></div>
+                 <div class="cs_about_bg cs_bg" data-src="/assets_new/img/about_img2.webp"></div>
                 <div class="container">
                     <div class="cs_about_text">
                         <div class="cs_section_heading cs_style_1">
@@ -217,7 +217,7 @@
                 <div class="cs_card_1_list">
                     <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                            <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_1.webp">
+                            <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_1.webp">
                                 01
                             </div>
                         </div>
@@ -240,7 +240,7 @@
                     </div>
                      <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_2.webp">
+                             <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_2.webp">
                                 02
                             </div>
                         </div>
@@ -263,7 +263,7 @@
                     </div>
                     <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_3.webp">
+                             <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_3.webp">
                                 03
                             </div>
                         </div>
@@ -286,7 +286,7 @@
                     </div>
                      <div class="cs_card cs_style_1 cs_color_1 anim_div_ShowDowns">
                         <div class="cs_card_left">
-                             <div class="cs_card_number cs_primary_font" data-src="assets/img/hero_img_2.webp">
+                             <div class="cs_card_number cs_primary_font" data-src="/assets_new/img/hero_img_2.webp">
                                 04
                             </div>
                         </div>
@@ -332,7 +332,7 @@
                         <div class="cs_horizontal_scroll">
                              <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_1.webp" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_1.webp" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -348,7 +348,7 @@
                         <div class="cs_horizontal_scroll">
                               <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_2.webp" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_2.webp" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -364,7 +364,7 @@
                         <div class="cs_horizontal_scroll">
                             <a href="portfolio-details.php" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_3.webp" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_3.webp" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -398,7 +398,7 @@
                     <div class="cs_card cs_style_2 cs_hover_tab active anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_1.svg" alt="Award" />
+                                <img src="/assets_new/img/award_1.svg" alt="Award" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">Best Digital Agency Dubai 2023 </h2>
@@ -410,13 +410,13 @@
                             <h2 class="cs_card_brand">ME Business Awards </h2>
                         </div>
                         <div class="cs_card_hover_img">
-                             <img src="assets/img/award_thumb_1.webp" alt="Thumb" />
+                             <img src="/assets_new/img/award_thumb_1.webp" alt="Thumb" />
                         </div>
                     </div>
                     <div class="cs_card cs_style_2 cs_hover_tab anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_2.svg" alt="Award" />
+                                <img src="/assets_new/img/award_2.svg" alt="Award" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">Top Web Design Firm </h2>
@@ -428,7 +428,7 @@
                             <h2 class="cs_card_brand">Clutch.co </h2>
                         </div>
                         <div class="cs_card_hover_img">
-                             <img src="assets/img/award_thumb_2.webp" alt="Thumb" />
+                             <img src="/assets_new/img/award_thumb_2.webp" alt="Thumb" />
                         </div>
                     </div>
                     </div>
@@ -462,7 +462,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div>
-                             <img src="assets/img/testimonial_thumb_1.webp" alt="Testimonial" class="w-100" />
+                             <img src="/assets_new/img/testimonial_thumb_1.webp" alt="Testimonial" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-7 offset-lg-1">
@@ -481,7 +481,7 @@
                                                 “Spring Future delivered an exceptional website that perfectly captured our brand vision. Their team was professional, responsive, and highly skilled. Highly recommended!” </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                     <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                     <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -501,7 +501,7 @@
                                                 “The AI automation solution provided by Spring Future has significantly improved our workflow efficiency. Their expertise in AI is truly impressive.” </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                     <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                     <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -573,7 +573,7 @@
             <div class="cs_parallax">
                  <a href="https://www.youtube.com/watch?v=VcaAVWtP48A"
                     class="cs_video_block cs_style1 cs_video_open cs_bg cs_parallax_bg"
-                    data-src="assets/img/video_block.webp">
+                    data-src="/assets_new/img/video_block.webp">
                     <span class="cs_player_btn cs_accent_color">
                         <span></span>
                     </span>
@@ -749,28 +749,28 @@
             <div class="cs_moving_section_in">
                 <div class="cs_moving_section cs_animation_speed_40">
                     <div class="cs_partner_logo_wrap">
-                         <div class="cs_partner_logo"><img src="assets/img/partner_1.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_2.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_3.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_4.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_5.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_6.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_7.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_8.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_11.svg" alt="Partner" /></div>
+                         <div class="cs_partner_logo"><img src="/assets_new/img/partner_1.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_2.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_3.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_4.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_5.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_6.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_7.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_8.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_11.svg" alt="Partner" /></div>
                     </div>
                 </div>
                  <div class="cs_moving_section cs_animation_speed_40">
                      <div class="cs_partner_logo_wrap">
-                         <div class="cs_partner_logo"><img src="assets/img/partner_1.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_2.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_3.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_4.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_5.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_6.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_7.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_8.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_11.svg" alt="Partner" /></div>
+                         <div class="cs_partner_logo"><img src="/assets_new/img/partner_1.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_2.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_3.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_4.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_5.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_6.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_7.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_8.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_11.svg" alt="Partner" /></div>
                     </div>
                 </div>
             </div>
@@ -780,28 +780,28 @@
             <div class="cs_moving_section_in">
                 <div class="cs_moving_section cs_animation_speed_50">
                     <div class="cs_partner_logo_wrap">
-                        <div class="cs_partner_logo"><img src="assets/img/partner_9.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_10.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_11.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_12.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_13.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_14.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_15.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_1.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_3.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_9.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_10.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_11.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_12.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_13.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_14.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_15.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_1.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_3.svg" alt="Partner" /></div>
                     </div>
                 </div>
                  <div class="cs_moving_section cs_animation_speed_50">
                     <div class="cs_partner_logo_wrap">
-                         <div class="cs_partner_logo"><img src="assets/img/partner_9.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_10.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_11.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_12.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_13.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_14.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_15.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_1.svg" alt="Partner" /></div>
-                        <div class="cs_partner_logo"><img src="assets/img/partner_3.svg" alt="Partner" /></div>
+                         <div class="cs_partner_logo"><img src="/assets_new/img/partner_9.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_10.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_11.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_12.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_13.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_14.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_15.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_1.svg" alt="Partner" /></div>
+                        <div class="cs_partner_logo"><img src="/assets_new/img/partner_3.svg" alt="Partner" /></div>
                     </div>
                 </div>
             </div>

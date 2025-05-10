@@ -58,7 +58,7 @@
                         </div>
                     </div>
                     <div class="cs_contact_section_2 anim_div_ShowRightSide">
-                        <div class="cs_google_map cs_bg" data-src="assets/img/dubai_map_placeholder.jpg">
+                        <div class="cs_google_map cs_bg" data-src="/assets_new/img/dubai_map_placeholder.jpg">
                             <iframe
                                 src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3610.4909991709707!2d55.26430091500907!3d25.186683483901096!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3e5f69ca5b05217d%3A0x6e9c8f1b9a9b3c8f!2sBay%20Square%20Building%2010%2C%20Business%20Bay%20-%20Dubai%20-%20United%20Arab%20Emirates!5e0!3m2!1sen!2sae!4v1683620000000!5m2!1sen!2sae" width="100%" height="100%" style="border:0;" allowfullscreen="" loading="lazy"
                                 referrerpolicy="no-referrer-when-downgrade"></iframe>

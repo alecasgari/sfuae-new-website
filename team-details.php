@@ -25,7 +25,7 @@
         <div class="container">
             <div class="row align-items-center">
                 <div class="col-md-5">
-                    <img src="assets/img/team_detalils.png" alt="team_detalils" />
+                    <img src="/assets_new/img/team_detalils.png" alt="team_detalils" />
                     <div class="cs_height_lg_30"></div>
                 </div>
                 <div class="col-md-7">

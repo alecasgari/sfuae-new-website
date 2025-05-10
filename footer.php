@@ -9,7 +9,7 @@
         <div class="row">
             <div class="col-lg-5">
                 <div class="cs_footer_info">
-                    <img src="assets/img/SF Logo Full White.svg" alt="Spring Future Logo" style="max-height: 100px; margin-bottom: 25px;" />
+                    <img src="/assets_new/img/SF Logo Full White.svg" alt="Spring Future Logo" style="max-height: 100px; margin-bottom: 25px;" />
                     <p>
                         With over 15 years of experience in website designing and Online advertisement, Spring Future is here to help you succeed online.
                     </p>
@@ -87,8 +87,8 @@
         </div>
     <div class="cs_toggle">
         <div class="setting_mode">
-            <button id="open"><img src="assets/img/brightnes.svg" alt="..."></button>
-            <button id="clecel"><img src="assets/img/close.svg" alt="..."></button>
+            <button id="open"><img src="/assets_new/img/brightnes.svg" alt="..."></button>
+            <button id="clecel"><img src="/assets_new/img/close.svg" alt="..."></button>
         </div>
         <div class="cs_mode_btn js-mode-type">
             <button class="active" data-mode="light">Light</button>
@@ -102,15 +102,15 @@
         </svg>
     </span>
     <!-- Script -->
-    <script src="assets/js/plugins/jquery-3.7.0.min.js"></script>
-    <script src="assets/js/plugins/isotope.pkg.min.js"></script>
-    <script src="assets/js/plugins/swiper.min.js"></script>
-    <script src="assets/js/plugins/lightgallery.min.js"></script>
-    <script src="assets/js/plugins/SplitText.min.js"></script>
-    <script src="assets/js/plugins/ScrollToPlugin.min.js"></script>
-    <script src="assets/js/plugins/ScrollTrigger.min.js"></script>
-    <script src="assets/js/plugins/ScrollSmoother.min.js"></script>
-    <script src="assets/js/plugins/gsap.min.js"></script>
-    <script src="assets/js/main.js"></script>
+    <script src="/assets_new/js/plugins/jquery-3.7.0.min.js"></script>
+    <script src="/assets_new/js/plugins/isotope.pkg.min.js"></script>
+    <script src="/assets_new/js/plugins/swiper.min.js"></script>
+    <script src="/assets_new/js/plugins/lightgallery.min.js"></script>
+    <script src="/assets_new/js/plugins/SplitText.min.js"></script>
+    <script src="/assets_new/js/plugins/ScrollToPlugin.min.js"></script>
+    <script src="/assets_new/js/plugins/ScrollTrigger.min.js"></script>
+    <script src="/assets_new/js/plugins/ScrollSmoother.min.js"></script>
+    <script src="/assets_new/js/plugins/gsap.min.js"></script>
+    <script src="/assets_new/js/main.js"></script>
 </body>
 </html>

@@ -19,7 +19,7 @@
                 <div class="cs_service_details">
                     <div class="cs_service_details_img">
                         <div class="cs_style_img">
-                            <img src="assets/img/service_details_banner.png" alt="service_details_banner" />
+                            <img src="/assets_new/img/service_details_banner.png" alt="service_details_banner" />
                         </div>
                     </div>
                     <div class="cs_service_details_text">
@@ -142,10 +142,10 @@
         <div class="container">
             <div class="d-flex gap-2 gap-md-5">
                 <div>
-                    <img src="assets/img/service_slider_1.png" alt="" />
+                    <img src="/assets_new/img/service_slider_1.png" alt="" />
                 </div>
                 <div>
-                    <img src="assets/img/service_slider_2.png" alt="" />
+                    <img src="/assets_new/img/service_slider_2.png" alt="" />
                 </div>
             </div>
         </div>

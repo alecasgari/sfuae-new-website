@@ -7,7 +7,7 @@
         <!-- Start hero 3 -->
         <section>
             <div class="cs_hero cs_style2">
-                <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="assets/img/design_banner.png"></div>
+                <div class="cs_hero_bg cs_bg cs_parallax_bg" data-src="/assets_new/img/design_banner.png"></div>
                 <div class="textupdowns">
                     <div class="cs_left_text">
                         <span class="cs_arrow">
@@ -75,13 +75,13 @@
 
                     <h2 class="cs_line_height_85 anim_text">
                         Welcome to
-                        <span><img src="assets/img/Journey_story_1.png" alt="Journey_story_1" /></span> our design
+                        <span><img src="/assets_new/img/Journey_story_1.png" alt="Journey_story_1" /></span> our design
                         studio! We create visually stunning designs
-                        <span><img src="assets/img/Journey_story_2.png" alt="Journey_story_2" /></span> for print,
+                        <span><img src="/assets_new/img/Journey_story_2.png" alt="Journey_story_2" /></span> for print,
                         digital
-                        <span><img src="assets/img/Journey_story_3.png" alt="Journey_story_3" /></span> ndenvironmental
+                        <span><img src="/assets_new/img/Journey_story_3.png" alt="Journey_story_3" /></span> ndenvironmental
                         mediums. Let's bring your vision to
-                        <span><img src="assets/img/Journey_story_4.png" alt="Journey_story_4" /></span> life together
+                        <span><img src="/assets_new/img/Journey_story_4.png" alt="Journey_story_4" /></span> life together
                     </h2>
                 </div>
             </div>
@@ -165,10 +165,10 @@
                     <div class="cs_service_exploring_2">
                         <div class="cs_service_exploring_img">
                             <div class="anim_div_ShowRightSide">
-                                <img src="assets/img/services_exploring.png" class="cs_img" alt="services_exploring" />
+                                <img src="/assets_new/img/services_exploring.png" class="cs_img" alt="services_exploring" />
                             </div>
                             <div class="cs_service_exploring_img_text cs_style_1 cs_color_1 anim_div_ShowDowns">
-                                <img src="assets/img/sound_box_icon.png" alt="sound_box_icon" />
+                                <img src="/assets_new/img/sound_box_icon.png" alt="sound_box_icon" />
                                 <h6 class="cs_white_color">
                                     Creating a Strong Brand Identity Through The Design
                                 </h6>
@@ -201,10 +201,10 @@
                 </div>
                 <div class="cs_height_100 cs_height_lg_60"></div>
                 <div class="project_successfull" id="animated-thumbnails-gallery">
-                    <a href="assets/img/project_successfull_1.png"
+                    <a href="/assets_new/img/project_successfull_1.png"
                         class="cs_portfolio project_successfull_1 cs_style_1">
                         <div class="cs_portfolio_img">
-                            <img src="assets/img/project_successfull_1.png" alt="Thumb" />
+                            <img src="/assets_new/img/project_successfull_1.png" alt="Thumb" />
                         </div>
                         <div class="cs_portfolio_overlay"></div>
                         <div class="cs_portfolio_info">
@@ -214,10 +214,10 @@
                             </div>
                         </div>
                     </a>
-                    <a href="assets/img/project_successfull_2.png"
+                    <a href="/assets_new/img/project_successfull_2.png"
                         class="cs_portfolio cs_style_1 project_successfull_2">
                         <div class="cs_portfolio_img">
-                            <img src="assets/img/project_successfull_2.png" alt="Thumb" />
+                            <img src="/assets_new/img/project_successfull_2.png" alt="Thumb" />
                         </div>
                         <div class="cs_portfolio_overlay"></div>
                         <div class="cs_portfolio_info">
@@ -228,10 +228,10 @@
                         </div>
                     </a>
 
-                    <a href="assets/img/project_successfull_3.png"
+                    <a href="/assets_new/img/project_successfull_3.png"
                         class="cs_portfolio cs_style_1 project_successfull_3">
                         <div class="cs_portfolio_img">
-                            <img src="assets/img/project_successfull_3.png" alt="Thumb" />
+                            <img src="/assets_new/img/project_successfull_3.png" alt="Thumb" />
                         </div>
                         <div class="cs_portfolio_overlay"></div>
                         <div class="cs_portfolio_info">
@@ -241,10 +241,10 @@
                             </div>
                         </div>
                     </a>
-                    <a href="assets/img/project_successfull_4.png"
+                    <a href="/assets_new/img/project_successfull_4.png"
                         class="cs_portfolio cs_style_1 project_successfull_4">
                         <div class="cs_portfolio_img">
-                            <img src="assets/img/project_successfull_4.png" alt="Thumb" />
+                            <img src="/assets_new/img/project_successfull_4.png" alt="Thumb" />
                         </div>
                         <div class="cs_portfolio_overlay"></div>
                         <div class="cs_portfolio_info">
@@ -254,10 +254,10 @@
                             </div>
                         </div>
                     </a>
-                    <a href="assets/img/project_successfull_5.png"
+                    <a href="/assets_new/img/project_successfull_5.png"
                         class="cs_portfolio cs_style_1 project_successfull_5">
                         <div class="cs_portfolio_img">
-                            <img src="assets/img/project_successfull_5.png" alt="Thumb" />
+                            <img src="/assets_new/img/project_successfull_5.png" alt="Thumb" />
                         </div>
                         <div class="cs_portfolio_overlay"></div>
                         <div class="cs_portfolio_info">
@@ -304,7 +304,7 @@
                     <div class="cs_card cs_style_2 cs_hover_tab active anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_1.svg" alt="Award" />
+                                <img src="/assets_new/img/award_1.svg" alt="Award" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">IOS App Design Award</h2>
@@ -318,13 +318,13 @@
                             <h2 class="cs_card_brand">Dribbbble</h2>
                         </div>
                         <div class="cs_card_hover_img">
-                            <img src="assets/img/award_thumb_1.png" alt="Thumb" />
+                            <img src="/assets_new/img/award_thumb_1.png" alt="Thumb" />
                         </div>
                     </div>
                     <div class="cs_card cs_style_2 cs_hover_tab anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_2.svg" alt="Award" />
+                                <img src="/assets_new/img/award_2.svg" alt="Award" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">Elite Author Award</h2>
@@ -338,13 +338,13 @@
                             <h2 class="cs_card_brand">Envato</h2>
                         </div>
                         <div class="cs_card_hover_img">
-                            <img src="assets/img/award_thumb_2.png" alt="Thumb" />
+                            <img src="/assets_new/img/award_thumb_2.png" alt="Thumb" />
                         </div>
                     </div>
                     <div class="cs_card cs_style_2 cs_hover_tab anim_div_ShowDowns">
                         <div class="cs_card_left">
                             <div class="cs_card_logo">
-                                <img src="assets/img/award_3.svg" alt="Award" />
+                                <img src="/assets_new/img/award_3.svg" alt="Award" />
                             </div>
                             <div>
                                 <h2 class="cs_card_title">CSS Design Award</h2>
@@ -358,7 +358,7 @@
                             <h2 class="cs_card_brand">Awwward</h2>
                         </div>
                         <div class="cs_card_hover_img">
-                            <img src="assets/img/award_thumb_3.png" alt="Thumb" />
+                            <img src="/assets_new/img/award_thumb_3.png" alt="Thumb" />
                         </div>
                     </div>
                 </div>
@@ -395,7 +395,7 @@
                 <div class="row align-items-center">
                     <div class="col-lg-4">
                         <div>
-                            <img src="assets/img/testimonial_thumb_1.png" alt="" class="w-100" />
+                            <img src="/assets_new/img/testimonial_thumb_1.png" alt="" class="w-100" />
                         </div>
                     </div>
                     <div class="col-lg-7 offset-lg-1">
@@ -425,7 +425,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -458,7 +458,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -491,7 +491,7 @@
                                             </blockquote>
                                             <div class="cs_testimonial_meta">
                                                 <div class="cs_testimonial_avatar">
-                                                    <img src="assets/img/avatar_1.png" alt="Avatar" />
+                                                    <img src="/assets_new/img/avatar_1.png" alt="Avatar" />
                                                 </div>
                                                 <div class="cs_testimonial_meta_right">
                                                     <h3 class="cs_testimonial_avatar_name">
@@ -546,7 +546,7 @@
                 <div class="cs_team_section anim_blog">
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg1.png" alt="teamsimg1" />
+                            <img src="/assets_new/img/teamsimg1.png" alt="teamsimg1" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
 
@@ -559,7 +559,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg2.png" alt="teamsimg2" />
+                            <img src="/assets_new/img/teamsimg2.png" alt="teamsimg2" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
                         <div class="cs_team_text">
@@ -571,7 +571,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg3.png" alt="teamsimg3" />
+                            <img src="/assets_new/img/teamsimg3.png" alt="teamsimg3" />
                             <div class="cs_portfolio_overlay"></div>
                         </a>
 
@@ -584,7 +584,7 @@
                     </div>
                     <div class="cs_team_img">
                         <a href="team-details.html">
-                            <img src="assets/img/teamsimg4.png" alt="teamsimg4" />
+                            <img src="/assets_new/img/teamsimg4.png" alt="teamsimg4" />
 
                             <div class="cs_portfolio_overlay"></div>
                         </a>
@@ -605,7 +605,7 @@
         <!-- Start serction about your project. header padding top 150px -->
         <section>
             <section>
-                <div class="cs_bg cs_bg_img_about_titile" data-src="assets/img/about_projec_ttitie_bg.png">
+                <div class="cs_bg cs_bg_img_about_titile" data-src="/assets_new/img/about_projec_ttitie_bg.png">
                     <div class="container">
                         <div class="cs_learning_project">
                             <div class="cs_section_heading cs_style_1">
@@ -645,62 +645,62 @@
                     <div class="cs_moving_section cs_animation_speed_40">
                         <div class="cs_partner_logo_wrap">
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_1.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_1.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_2.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_2.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_3.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_3.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_4.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_4.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_5.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_5.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_6.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_6.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_7.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_7.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_8.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_8.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_11.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_11.svg" alt="Partner" />
                             </div>
                         </div>
                     </div>
                     <div class="cs_moving_section cs_animation_speed_40">
                         <div class="cs_partner_logo_wrap">
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_1.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_1.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_2.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_2.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_3.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_3.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_4.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_4.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_5.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_5.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_6.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_6.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_7.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_7.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_8.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_8.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_11.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_11.svg" alt="Partner" />
                             </div>
                         </div>
                     </div>
@@ -712,62 +712,62 @@
                     <div class="cs_moving_section cs_animation_speed_50">
                         <div class="cs_partner_logo_wrap">
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_9.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_9.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_10.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_10.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_11.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_11.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_12.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_12.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_13.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_13.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_14.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_14.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_15.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_15.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_1.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_1.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_3.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_3.svg" alt="Partner" />
                             </div>
                         </div>
                     </div>
                     <div class="cs_moving_section cs_animation_speed_50">
                         <div class="cs_partner_logo_wrap">
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_9.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_9.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_10.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_10.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_11.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_11.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_12.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_12.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_13.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_13.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_14.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_14.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_15.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_15.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_1.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_1.svg" alt="Partner" />
                             </div>
                             <div class="cs_partner_logo">
-                                <img src="assets/img/partner_3.svg" alt="Partner" />
+                                <img src="/assets_new/img/partner_3.svg" alt="Partner" />
                             </div>
                         </div>
                     </div>
@@ -807,7 +807,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_1.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_1.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -823,7 +823,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_2.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_2.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -839,7 +839,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_3.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_3.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -855,7 +855,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_1.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_1.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -871,7 +871,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_2.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_2.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">
@@ -887,7 +887,7 @@
                         <div class="swiper-slide">
                             <div class="cs_post cs_style_1">
                                 <a href="blog-details.html" class="cs_post_thumb">
-                                    <img src="assets/img/post_3.png" alt="Thumb" />
+                                    <img src="/assets_new/img/post_3.png" alt="Thumb" />
                                 </a>
                                 <div class="cs_post_info">
                                     <h2 class="cs_post_title">

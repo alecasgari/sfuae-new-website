@@ -40,7 +40,7 @@
                         <div class="col-md-4 cs_item cs_ui_design cs_development">
                             <a href="portfolio-details.html" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_1.png" class="img-fluid" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_1.png" class="img-fluid" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -56,7 +56,7 @@
                         <div class="col-md-4 cs_item cs_ux_desing cs_finance cs_development">
                             <a href="portfolio-details.html" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_2.png" class="img-fluid" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_2.png" class="img-fluid" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -72,7 +72,7 @@
                         <div class="col-md-4 cs_item cs_ux_desing cs_finance cs_ui_design">
                             <a href="portfolio-details.html" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_3.png" class="img-fluid" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_3.png" class="img-fluid" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -88,7 +88,7 @@
                         <div class="col-md-4 cs_item cs_ux_desing cs_finance cs_ui_design">
                             <a href="portfolio-details.html" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_5.png" class="img-fluid" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_5.png" class="img-fluid" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -104,7 +104,7 @@
                         <div class="col-md-4 cs_item cs_ux_desing cs_development">
                             <a href="portfolio-details.html" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_6.png" class="img-fluid" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_6.png" class="img-fluid" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">
@@ -120,7 +120,7 @@
                         <div class="col-md-4 cs_item cs_ux_desing">
                             <a href="portfolio-details.html" class="cs_portfolio cs_style_1">
                                 <div class="cs_portfolio_img">
-                                    <img src="assets/img/portfolio_7.png" class="img-fluid" alt="Thumb" />
+                                    <img src="/assets_new/img/portfolio_7.png" class="img-fluid" alt="Thumb" />
                                 </div>
                                 <div class="cs_portfolio_overlay"></div>
                                 <div class="cs_portfolio_info">

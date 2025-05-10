@@ -71,7 +71,7 @@
             <div class="container">
                 <div class="cs_portfolio_details">
                     <div class="reveal">
-                        <img src="assets/img/protfolio_details_1.png" alt="protfolio_details_1" />
+                        <img src="/assets_new/img/protfolio_details_1.png" alt="protfolio_details_1" />
                     </div>
                     <div class="cs_height_100 cs_height_lg_60"></div>
                     <div class="anim_div_ShowDowns">
@@ -112,10 +112,10 @@
         <div class="container">
             <div class="d-flex gap-2 gap-md-5">
                 <div class="reveal">
-                    <img src="assets/img/portfoliodetails_2.png" alt="portfoliodetails_2" />
+                    <img src="/assets_new/img/portfoliodetails_2.png" alt="portfoliodetails_2" />
                 </div>
                 <div class="reveal">
-                    <img src="assets/img/portfoliodetails_1.png" alt="portfoliodetails_1" />
+                    <img src="/assets_new/img/portfoliodetails_1.png" alt="portfoliodetails_1" />
                 </div>
             </div>
         </div>
@@ -144,13 +144,13 @@
                             </div>
                             <div class="cs_solutions_section_img_show">
                                 <div class="portfolio_solution_1 reveal">
-                                    <img src="assets/img/portfolio_solution_1.png" alt="portfolio_solution_1" />
+                                    <img src="/assets_new/img/portfolio_solution_1.png" alt="portfolio_solution_1" />
                                 </div>
                                 <div class="portfolio_solution_2 reveal">
-                                    <img src="assets/img/portfolio_solution_2.png" alt="portfolio_solution_2" />
+                                    <img src="/assets_new/img/portfolio_solution_2.png" alt="portfolio_solution_2" />
                                 </div>
                                 <div class="portfolio_solution_3 reveal">
-                                    <img src="assets/img/portfolio_solution_3.png" alt="portfolio_solution_3" />
+                                    <img src="/assets_new/img/portfolio_solution_3.png" alt="portfolio_solution_3" />
                                 </div>
                             </div>
                             <div class="cs_img_footer_title cs_color_1 anim_text_upanddowns">
