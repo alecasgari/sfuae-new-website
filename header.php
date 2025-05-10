@@ -15,10 +15,10 @@ $meta_author = "Spring Future";
 $meta_description = "Spring Future is a leading digital innovation agency in Dubai, specializing in AI solutions, digital marketing, web design, and event management.";
 $meta_keywords = "Spring Future, AI, Digital Marketing, Web Design, Event Management, Dubai, UAE, Innovation";
 
-$gtm_id = "GTM-KWBPZ92B";
-$search_console_verification = "googleb08a3c306d3227de";
+$gtm_id = "GTM-KWBPZ92B"; // Your actual GTM ID
+$search_console_verification = "googleb08a3c306d3227de"; // Your actual verification string
 
-// Google Fonts URL (already optimized in previous step)
+// Google Fonts URL
 $font_url = "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Kanit:wght@300;400;500;600;700;800&display=swap";
 ?>
 <head>
@@ -29,11 +29,11 @@ $font_url = "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600
     <meta name="description" content="<?php echo htmlspecialchars($meta_description, ENT_QUOTES, 'UTF-8'); ?>"/>
     <meta name="keywords" content="<?php echo htmlspecialchars($meta_keywords, ENT_QUOTES, 'UTF-8'); ?>"/>
 
-    <?php if (!empty($search_console_verification) && $search_console_verification !== 'googleb08a3c306d3227de_PLACEHOLDER'): // Ensure placeholder is unique if used ?>
+    <?php if (!empty($search_console_verification) && $search_console_verification !== 'YOUR_VERIFICATION_STRING_PLACEHOLDER'): // Using a generic placeholder check for example ?>
     <meta name="google-site-verification" content="<?php echo htmlspecialchars($search_console_verification, ENT_QUOTES, 'UTF-8'); ?>" />
     <?php endif; ?>
 
-    <?php if (!empty($gtm_id) && $gtm_id !== 'GTM-XXXXXXX_PLACEHOLDER'): // Ensure placeholder is unique if used ?>
+    <?php if (!empty($gtm_id) && $gtm_id !== 'GTM-XXXXXXX_PLACEHOLDER'): // Using a generic placeholder check for example ?>
     <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
     new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
     j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
@@ -52,28 +52,10 @@ $font_url = "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600
       <link rel="stylesheet" href="<?php echo htmlspecialchars($font_url, ENT_QUOTES, 'UTF-8'); ?>">
     </noscript>
 
-    <style id="critical-css-styles">
-      <?php
-      // Placeholder for critical CSS.
-      // You will generate this using an online tool for your homepage's above-the-fold content
-      // and paste the generated CSS rules directly here.
-      // Example: body{font-family:sans-serif} .cs_hero_title{color:blue} ...
-      // For now, it's empty. Consider adding a very basic style to prevent FOUC if generation takes time.
-      // echo "body { visibility: hidden; }"; // Temporary to hide FOUC before non-critical CSS loads
-      ?>
-    </style>
-
-    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/bootstrap.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/style.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/lightgallery.min.css" media="print" onload="this.media='all'">
-    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/swiper.min.css" media="print" onload="this.media='all'">
-
-    <noscript>
-      <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/bootstrap.min.css">
-      <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/style.css">
-      <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/lightgallery.min.css">
-      <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/swiper.min.css">
-    </noscript>
+    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/bootstrap.min.css" />
+    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/lightgallery.min.css" />
+    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/plugins/swiper.min.css" />
+    <link rel="stylesheet" href="<?php echo htmlspecialchars($base_path, ENT_QUOTES, 'UTF-8'); ?>assets_new/css/style.css" />
 
 </head>
 
