@@ -1,0 +1,49 @@
+# Operating System files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE and editor specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Log files
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Compressed files (backups, archives, etc.)
+# شما قبلاً SF NEW WEBSITE.zip را حذف کرده‌اید که خوب است، اما برای آینده
+*.zip
+*.rar
+*.tar
+*.gz
+
+# Sass cache
+.sass-cache/
+
+# Node.js (اگر در آینده استفاده کردید)
+# node_modules/
+# package-lock.json
+# npm-debug.log
+# yarn-error.log
+
+# PHP Composer (اگر در آینده استفاده کردید)
+# vendor/
+# composer.lock
+
+# فایل‌های مربوط به آپلودهای کاربر یا فایل‌های تولید شده توسط سرور
+# که نباید در کنترل نسخه باشند
+# uploads/
+
+# فایل‌های پیکربندی حساس (اگر داشتید)
+# config.php
+# .env
+
+# فایل‌های مربوط به PHPStorm یا سایر IDE ها (مثال)
+.idea/
