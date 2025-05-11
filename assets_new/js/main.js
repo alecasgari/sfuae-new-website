@@ -174,99 +174,136 @@
      5. Slick Slider
  --------------------------------------------------------------*/
 
-  function swiperInit() {
-    if ($.exists(".cs_slider_1")) {
-      var swiper = new Swiper(".cs_slider_1", {
-        loop: true,
+    function swiperInit() {
+      if ($.exists(".cs_slider_1")) {
+        var swiper = new Swiper(".cs_slider_1", {
+          loop: true,
+          speed: 1000,
+          autoplay: false,
+          pagination: {
+            el: ".cs_pagination",
+            clickable: true,
+          },
+        });
+      }
+      if ($.exists(".cs_slider_1")) {
+       var swiper1 = new Swiper(".cs_slider_1", {
+       loop: true,
         speed: 1000,
-        autoplay: false,
-        pagination: {
-          el: ".cs_pagination",
-          clickable: true,
-        },
-      });
+        autoplay: {
+       delay: 5000,
+       disableOnInteraction: false, 
+      },
+         pagination: {
+      el: ".cs_hero_slider_pagination", 
+      clickable: true,
+    },
+    navigation: { // اضافه کردن دکمه‌های ناوبری
+      nextEl: ".cs_hero_slider_next", 
+      prevEl: ".cs_hero_slider_prev", 
+    },
+  });
+}
+
+      if ($.exists(".cs_slider_2")) {
+     var swiper2 = new Swiper(".cs_slider_2", { 
+     loop: true,
+      speed: 1000,
+      autoplay: {
+      delay: 4000,
+      disableOnInteraction: false,
+    },
+    pagination: {
+      el: ".cs_slider2_pagination", 
+      type: "fraction",
+    },
+    navigation: {
+      nextEl: ".cs_slider2_next",
+      prevEl: ".cs_slider2_prev",
+    },
+  });
+}
+      if ($.exists(".cs_slider_2")) {
+        var swiper = new Swiper(".cs_slider_2", {
+          loop: true,
+          speed: 1000,
+          autoplay: false,
+          pagination: {
+            el: ".cs_pagination",
+            type: "fraction",
+          },
+          navigation: {
+            nextEl: ".cs_swiper_button_next",
+            prevEl: ".cs_swiper_button_prev",
+          },
+        });
+      }
+      if ($.exists(".cs_slider_3")) {
+        var swiper = new Swiper(".cs_slider_3", {
+          loop: true,
+          speed: 1000,
+          autoplay: false,
+          slidesPerView: "auto",
+          spaceBetween: 30,
+          pagination: {
+            el: ".cs_pagination",
+            clickable: true,
+          },
+        });
+      }
+      if ($.exists(".cs_slider_4")) {
+        var swiper = new Swiper(".cs_slider_4", {
+          loop: true,
+          speed: 1000,
+          autoplay: true,
+          pagination: {
+            el: ".cs_pagination",
+            clickable: true,
+          },
+        });
+      }
+      if ($.exists(".cs_slider_5")) {
+        var swiper = new Swiper(".cs_slider_5", {
+          loop: true,
+          speed: 1000,
+          autoplay: false,
+          slidesPerView: "auto",
+          centeredStartd: true,
+          spaceBetween: 30,
+          pagination: {
+            el: ".cs_pagination",
+            clickable: true,
+          },
+        });
+      }
+      if ($.exists(".cs_slider_6")) {
+        var swiper = new Swiper(".cs_slider_6", {
+          loop: true,
+          speed: 1000,
+          autoplay: false,
+          slidesPerView: "auto",
+          centeredStartd: true,
+          spaceBetween: 30,
+          pagination: {
+            el: ".cs_pagination",
+            clickable: true,
+          },
+        });
+      }
+      if ($.exists(".cs_horizontal_scrolls")) {
+        var swiper = new Swiper(".cs_horizontal_scrolls", {
+          loop: true,
+          speed: 1000,
+          autoplay: false,
+          slidesPerView: "auto",
+          centeredStartd: true,
+          pagination: {
+            el: ".cs_pagination",
+            clickable: true,
+          },
+        });
+      }
     }
-    if ($.exists(".cs_slider_2")) {
-      var swiper = new Swiper(".cs_slider_2", {
-        loop: true,
-        speed: 1000,
-        autoplay: false,
-        pagination: {
-          el: ".cs_pagination",
-          type: "fraction",
-        },
-        navigation: {
-          nextEl: ".cs_swiper_button_next",
-          prevEl: ".cs_swiper_button_prev",
-        },
-      });
-    }
-    if ($.exists(".cs_slider_3")) {
-      var swiper = new Swiper(".cs_slider_3", {
-        loop: true,
-        speed: 1000,
-        autoplay: false,
-        slidesPerView: "auto",
-        spaceBetween: 30,
-        pagination: {
-          el: ".cs_pagination",
-          clickable: true,
-        },
-      });
-    }
-    if ($.exists(".cs_slider_4")) {
-      var swiper = new Swiper(".cs_slider_4", {
-        loop: true,
-        speed: 1000,
-        autoplay: true,
-        pagination: {
-          el: ".cs_pagination",
-          clickable: true,
-        },
-      });
-    }
-    if ($.exists(".cs_slider_5")) {
-      var swiper = new Swiper(".cs_slider_5", {
-        loop: true,
-        speed: 1000,
-        autoplay: false,
-        slidesPerView: "auto",
-        centeredStartd: true,
-        spaceBetween: 30,
-        pagination: {
-          el: ".cs_pagination",
-          clickable: true,
-        },
-      });
-    }
-    if ($.exists(".cs_slider_6")) {
-      var swiper = new Swiper(".cs_slider_6", {
-        loop: true,
-        speed: 1000,
-        autoplay: false,
-        slidesPerView: "auto",
-        centeredStartd: true,
-        spaceBetween: 30,
-        pagination: {
-          el: ".cs_pagination",
-          clickable: true,
-        },
-      });
-    }
-    if ($.exists(".cs_horizontal_scrolls")) {
-      var swiper = new Swiper(".cs_horizontal_scrolls", {
-        loop: true,
-        speed: 1000,
-        autoplay: false,
-        slidesPerView: "auto",
-        centeredStartd: true,
-        pagination: {
-          el: ".cs_pagination",
-          clickable: true,
-        },
-      });
-    }
-  }
   /*-------------------------------------------------------------
        6. Isotop Initialize
  --------------------------------------------------------------*/
